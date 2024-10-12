@@ -1,1 +1,1 @@
-# imaclaret-github.io
+# imaclaret.github.io
